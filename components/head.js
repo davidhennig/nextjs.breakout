@@ -9,6 +9,7 @@ const defaultOGImage = "";
 const Head = props => (
   <NextHead>
     <div>NEW DAVID HENNIG</div>
+    <h2>New REECE</h2>
     <meta charSet="UTF-8" />
     <title>{props.title || ""}</title>
     <meta
